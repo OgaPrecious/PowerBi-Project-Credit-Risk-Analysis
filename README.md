@@ -55,8 +55,8 @@ The dataset contains loan application and repayment information, including:
 🚀 How to Use
 
 
-Open the Power BI file (.pbix).
-
+Open the Power BI file (.pbix). 
+https://github.com/OgaPrecious/PowerBi-Project-Credit-Risk-Analysis/blob/main/credit%20risk%20project.pbix
 Interact with filters to explore credit risk patterns.
 
 ## 📌 Conclusion
